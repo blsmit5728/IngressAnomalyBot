@@ -9,7 +9,10 @@ phone =
 username = 
 ```
 
+To run this program:
 ```
+git clone https://github.com/blsmit5728/IngressAnomalyBot.git
+cd IngressAnomalyBot
 python3 -m venv VENV
 source ./VENV/bin/activate
 pip install -r requirments.txt
